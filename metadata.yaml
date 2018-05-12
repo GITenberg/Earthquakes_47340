@@ -1,4 +1,8 @@
 _repo: Earthquakes_47340
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47340-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Pakiser, Louis
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44267'
     url: http://www.gutenberg.org/2009/agents/44267
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47340#Earthquakes
 gutenberg_issued: '2014-11-13'
 gutenberg_type: Text
 identifiers:
